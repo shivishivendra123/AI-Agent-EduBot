@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the reason for the inability of copper to liberate H2 from acids?",
+    "option_a": "High energy to transform Cu(s) to Cu2+(aq) is balanced by its hydration enthalpy",
+    "option_b": "High energy to transform Cu(s) to Cu2+(aq) is not balanced by its hydration enthalpy",
+    "option_c": "Low energy to transform Cu(s) to Cu2+(aq) is balanced by its hydration enthalpy",
+    "option_d": "Low energy to transform Cu(s) to Cu2+(aq) is not balanced by its hydration enthalpy",
+    "answer": "option_b"
+  },
+  {
+    "question": "Why is Cr2+ reducing and Mn3+ oxidising?",
+    "option_a": "Cr2+ has a half-filled t2g level and Mn3+ has a half-filled d5 configuration",
+    "option_b": "Cr2+ has a half-filled d5 configuration and Mn3+ has a half-filled t2g level",
+    "option_c": "Cr2+ has a completely filled d sub-shell and Mn3+ has a half-filled d5 configuration",
+    "option_d": "Cr2+ has a half-filled t2g level and Mn3+ has a completely filled d sub-shell",
+    "answer": "option_a"
+  },
+  {
+    "question": "What is the general trend in the sum of the first and second ionisation enthalpies across the series of transition metals?",
+    "option_a": "The sum decreases across the series",
+    "option_b": "The sum remains constant across the series",
+    "option_c": "The sum increases across the series",
+    "option_d": "The trend is irregular across the series",
+    "answer": "option_c"
+  },
+  {
+    "question": "Why does the E⊖(M2+/M) value for copper have a positive value?",
+    "option_a": "High ΔaH⊖ and high ΔhydH⊖",
+    "option_b": "High ΔaH⊖ and low ΔhydH⊖",
+    "option_c": "Low ΔaH⊖ and high ΔhydH⊖",
+    "option_d": "Low ΔaH⊖ and low ΔhydH⊖",
+    "answer": "option_b"
+  },
+  {
+    "question": "What is the reason for the increasing oxidising power in the series VO2+ < Cr2O72- < MnO4-?",
+    "option_a": "Increasing stability of the higher species",
+    "option_b": "Increasing stability of the lower species to which they are reduced",
+    "option_c": "Decreasing stability of the higher species",
+    "option_d": "Decreasing stability of the lower species to which they are reduced",
+    "answer": "option_b"
+  }
+]
