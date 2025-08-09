@@ -25,7 +25,8 @@ It leverages **LangChain**, **FastAPI**, **MongoDB**, **Google Cloud Storage**, 
 
 ## 🏗 System Architecture  
 
-![System Architecture Diagram](docs/system-architecture.png)  
+<img width="1750" height="1160" alt="image" src="https://github.com/user-attachments/assets/bbe02f9e-786c-4b96-a381-29cb2af55504" />
+
 
 **Components**:  
 - **Frontend (React.js)**: Teacher and student dashboards with embedded conversational agent.  
